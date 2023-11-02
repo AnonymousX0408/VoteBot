@@ -96,7 +96,7 @@ async def source_(cli: Abishnoi, query: CallbackQuery):
 <u><b>➻ ʜᴇʀᴇ ɪs ᴛʜᴇ sᴏᴜʀᴄᴇ ᴏғ {Abishnoi.mention} :</b></u>
 
 • ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ : [ᴘʏʀᴏɢʀᴀᴍ](https://github.com/pyrogram/pyrogram), [ᴀʙɢ](https://github.com/Abishnoi69/Abg) ᴀɴᴅ [ᴍᴏɴɢᴏ](https://cloud.mongodb.com/) ᴀs ᴅᴀᴛᴀʙᴀsᴇ.
-• ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [{Abishnoi.name}](https://github.com/Abishnoi69/AsuX)
+• ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [𝚁𝙾𝙻𝙴𝚇](https://t.me/Prime_Rolex)
 """,
         reply_markup=InlineKeyboardMarkup(
             [[InlineKeyboardButton(text="ʙᴀᴄᴋ", callback_data="AsuX_home")]]
